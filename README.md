@@ -1,8 +1,9 @@
-<h1 align="center">🚀 Nakulan's Project Showcase</h1>
+<h1 align="center">🚀 Project Showcase</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B5D8&center=true&vCenter=true&width=435&lines=Crafting+Code+for+Social+Change+🌍;IoT+%7C+AI+%7C+Web+%7C+Flutter+%7C+Impact+Projects" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Crafting%20Code%20for%20Social%20Impact-%F0%9F%8C%8D-blue?style=for-the-badge" />
 </p>
+
 
 ---
 
