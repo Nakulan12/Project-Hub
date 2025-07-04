@@ -13,8 +13,9 @@
 | 🚀 | Project | Tech Stack | Links |
 |----|---------|------------|--------|
 | 🌸 | **HerVoice** – Digital Literacy | React, TS, Tailwind, Supabase | [🔗 GitHub](https://github.com/Nakulan12/hervoice-slytherin) |
-| 💓 | **EchoHealth** – Health Tracker | React, TS, JS, Tailwind | [🌐 Live](https://echo-health.netlify.app) · [GitHub](https://github.com/Nakulan12/echohealth) |
-| 🚄 | **SmartTrack** – Railway Safety | React, JS, Tailwind, Node, MongoDB | [🌐 Live](https://smarttrack-iot.netlify.app) · [GitHub](https://github.com/Nakulan12/SmartTrack-) |
+| 💓 | **EchoHealth** – Health Tracker | React, TS, JS, Tailwind | [🌐 Live](https://echo-health.netlify.app) · [🔗 GitHub](https://github.com/Nakulan12/echohealth) |
+| 🚄 | **SmartTrack** – Railway Safety | React, JS, Tailwind, Node, MongoDB | [🌐 Live](https://smarttrack-iot.netlify.app) · [🔗 GitHub](https://github.com/Nakulan12/SmartTrack-) |
+| 🧪 | **Quantum Computing** – Paper Presentation | Qiskit, IBM Quantum, Theoretical | [📄 View Paper](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk) |
 
 ---
 
@@ -85,6 +86,28 @@
 
 🌐 [**Live Demo**](https://smarttrack-iot.netlify.app)  
 🔗 [**GitHub Repo**](https://github.com/Nakulan12/SmartTrack-)
+
+</details>
+
+---
+
+
+<details>
+<summary>🧪 <strong>Quantum Computing – Technical Paper Presentation</strong></summary>
+
+> An in-depth research presentation on the **Foundations and Future of Quantum Computing**, showcasing how quantum principles can revolutionize computation, security, and problem-solving in the 21st century.
+
+**🧠 Key Highlights:**
+- 🌀 Qubits, Superposition, and Quantum Entanglement  
+- ⚛️ Core Algorithms: Shor’s Factorization, Grover’s Search  
+- 🔐 Quantum Cryptography: Unbreakable Communication  
+- 🧬 Applications in AI, ML, Cryptography, and Drug Design  
+- 🌐 Explored Qiskit, IBM Quantum Simulators, and real-world feasibility
+
+**🎓 Presented at:** *Sri Krishna Arts and Science College*  
+🏅 Recognized for clarity, technical depth, and future-focused insights
+
+📄 [**View Full Paper**](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk&ouid=117647700506428501634&rtpof=true&sd=true)
 
 </details>
 
