@@ -15,7 +15,8 @@
 | 🌸 | **HerVoice** – Digital Literacy | React, TS, Tailwind, Supabase | [🔗 GitHub](https://github.com/Nakulan12/hervoice-slytherin) |
 | 💓 | **EchoHealth** – Health Tracker | React, TS, JS, Tailwind | [🌐 Live](https://echo-health.netlify.app) · [🔗 GitHub](https://github.com/Nakulan12/echohealth) |
 | 🚄 | **SmartTrack** – Railway Safety | React, JS, Tailwind, Node, MongoDB | [🌐 Live](https://smarttrack-iot.netlify.app) · [🔗 GitHub](https://github.com/Nakulan12/SmartTrack-) |
-| 🧪 | **Quantum Computing** – Paper Presentation | Theoretical | [📄 View Paper](https://docs.google.com/document/d/1R9BLtQIIYWBpYTPfGrTj2UK3-bUnfMIX/edit?usp=drive_link&ouid=103307181711459572133&rtpof=true&sd=true) |
+| 📑 | **SmartTrack** – Research Paper | Research | [📄 View Paper](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link) |
+| 🧪 | **Quantum Computing** – Paper Presentation | Research | [📄 View Paper](https://docs.google.com/document/d/1R9BLtQIIYWBpYTPfGrTj2UK3-bUnfMIX/edit?usp=drive_link&ouid=103307181711459572133&rtpof=true&sd=true) |
 
 ---
 
@@ -90,7 +91,27 @@
 </details>
 
 ---
+<details>
+<summary>📄 <strong>SmartTrack – Technical Research Paper</strong></summary>
 
+> A complete research documentation of the **SmartTrack Railway Crack Detection System**, covering design, architecture, literature survey, methodology, and real-time implementation — built for smart railway safety and derailment prevention.
+
+---
+
+### 🧠 Key Highlights:
+- 🚄 Problem Statement & Research Motivation  
+- ⚙️ Hardware-Software Integration (Sensors + IoT + Web)  
+- 🧱 System Architecture & Working Explained  
+- 📈 Real-Time Data Handling with MongoDB & Node.js  
+- 🌐 Web Dashboard for Alert Monitoring and Crack History  
+- 📊 Literature Survey, Case Study, and Future Scope  
+
+
+📎 **[View Full Paper ](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link)**  
+
+</details>
+
+---
 
 <details>
 <summary>🧪 <strong>Quantum Computing – Technical Paper Presentation</strong></summary>
