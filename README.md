@@ -13,8 +13,8 @@
 | 🚀 | Project | Tech Stack | Links |
 |----|---------|------------|--------|
 | 🌸 | **HerVoice** – Digital Literacy | React, TS, Tailwind, Supabase |[🔗 GitHub](https://github.com/Nakulan12/hervoice-slytherin) |
-| 💓 | **EchoHealth** – Health Tracker | React, TS, JS, Tailwind | [🌐 Live](https://echo-health.netlify.app) · [🔗 GitHub](https://github.com/Nakulan12/echohealth) |
-| 🚄 | **SmartTrack** – Railway Safety | React, JS, Tailwind, Node, MongoDB | [🌐 Live](https://smarttrack-iot.netlify.app) · [🔗 GitHub](https://github.com/Nakulan12/SmartTrack-) |
+| 💓 | **EchoHealth** – Health Tracker | React, TS, JS, Tailwind |  [🔗 GitHub](https://github.com/Nakulan12/echohealth) |
+| 🚄 | **SmartTrack** – Railway Safety | React, JS, Tailwind, Node, MongoDB | [🔗 GitHub](https://github.com/Nakulan12/SmartTrack-) |
 | 📑 | **SmartTrack** – Research Paper | Research | [📄 View Paper](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link) |
 | 🧪 | **Quantum Computing** – Paper Presentation | Research | [📄 View Paper](https://docs.google.com/document/d/1R9BLtQIIYWBpYTPfGrTj2UK3-bUnfMIX/edit?usp=drive_link&ouid=103307181711459572133&rtpof=true&sd=true) |
 
