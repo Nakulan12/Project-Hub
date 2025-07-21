@@ -10,13 +10,14 @@
 
 ## 🧭 Project Directory
 
-| 🚀 | Project | Tech Stack | Links |
-|----|---------|------------|--------|
-| 🌸 | **HerVoice** – Digital Literacy | React, TS, Tailwind, Supabase |[🔗 GitHub](https://github.com/Nakulan12/hervoice-slytherin) |
-| 💓 | **EchoHealth** – Health Tracker | React, TS, JS, Tailwind |  [🔗 GitHub](https://github.com/Nakulan12/echohealth) |
-| 🚄 | **SmartTrack** – Railway Safety | React, JS, Tailwind, Node, MongoDB | [🔗 GitHub](https://github.com/Nakulan12/SmartTrack-) |
-| 📑 | **SmartTrack** – Research Paper | Research | [📄 View Paper](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link) |
-| 🧪 | **Quantum Computing** – Paper Presentation | Research | [📄 View Paper](https://docs.google.com/document/d/1R9BLtQIIYWBpYTPfGrTj2UK3-bUnfMIX/edit?usp=drive_link&ouid=103307181711459572133&rtpof=true&sd=true) |
+| 🚀 | Project | Domain | Stack | Links |
+|----|---------|--------|-------|--------|
+| 🌸 | **HerVoice** | Digital Literacy | React, TS, Tailwind, Supabase | [🔗 GitHub](https://github.com/Nakulan12/hervoice-slytherin) |
+| 💓 | **EchoHealth** | Health Tracker | React, TS, JS, Tailwind | [🔗 GitHub](https://github.com/Nakulan12/echohealth) |
+| 🚄 | **SmartTrack** | Railway IoT Safety | React, JS, Tailwind, Node, MongoDB | [🔗 GitHub](https://github.com/Nakulan12/SmartTrack-) |
+| 📑 | **SmartTrack Research** | Research Paper | — | [📄 View Paper](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link) |
+| 🧪 | **Quantum Computing** | Research Paper | — | [📄 View Paper](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk&ouid=117647700506428501634&rtpof=true&sd=true) |
+| 🌾 | **Fertilizer MLOps** *(Contribution)* | AgriTech ML | HTML, CSS | [🔗 GitHub](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
 
 ---
 
@@ -91,14 +92,13 @@
 </details>
 
 ---
+
 <details>
 <summary>📄 <strong>SmartTrack – Technical Research Paper</strong></summary>
 
 > A complete research documentation of the **SmartTrack Railway Crack Detection System**, covering design, architecture, literature survey, methodology, and real-time implementation — built for smart railway safety and derailment prevention.
 
----
-
-### 🧠 Key Highlights:
+**🧠 Key Highlights:**
 - 🚄 Problem Statement & Research Motivation  
 - ⚙️ Hardware-Software Integration (Sensors + IoT + Web)  
 - 🧱 System Architecture & Working Explained  
@@ -106,8 +106,7 @@
 - 🌐 Web Dashboard for Alert Monitoring and Crack History  
 - 📊 Literature Survey, Case Study, and Future Scope  
 
-
-📎 **[View Full Paper ](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link)**  
+📎 **[View Full Paper](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link)**
 
 </details>
 
@@ -125,9 +124,28 @@
 - 🧬 Applications in AI, ML, Cryptography, and Drug Design  
 - 🌐 Explored Qiskit, IBM Quantum Simulators, and real-world feasibility
 
-**🎓 Presented at:** *Sri Krishna Arts and Science College*  
-
 📄 [**View Full Paper**](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk&ouid=117647700506428501634&rtpof=true&sd=true)
+
+</details>
+
+---
+
+<details>
+<summary>🌾 <strong>Fertilizer Prediction – MLOps (Contribution)</strong></summary>
+
+> A machine learning-powered fertilizer recommender. I built the full **HTML-CSS UI** and helped integrate the model results into a clean, dashboard-style frontend.
+
+**🧩 Highlights:**
+- 🌱 Clean UI for Input Form  
+- 📊 Result Display Dashboard  
+- ⚙️ Easy Backend Integration  
+- ✅ Fully Static Responsive Layout
+
+**🛠 Tech Stack:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge)
+
+🔗 [**GitHub Repo**](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS)
 
 </details>
 
