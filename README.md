@@ -15,8 +15,8 @@
 | 🌸 | **HerVoice** | Digital Literacy | React, TS, Tailwind, Supabase | [🔗 GitHub](https://github.com/Nakulan12/hervoice-slytherin) |
 | 💓 | **EchoHealth** | Health Tracker | React, TS, JS, Tailwind | [🔗 GitHub](https://github.com/Nakulan12/echohealth) |
 | 🚄 | **SmartTrack** | Railway IoT Safety | React, JS, Tailwind, Node, MongoDB | [🔗 GitHub](https://github.com/Nakulan12/SmartTrack-) |
-| 📑 | **SmartTrack Research** | Research Paper | — | [📄 View Paper](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link) |
-| 🧪 | **Quantum Computing** | Research Paper | — | [📄 View Paper](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk&ouid=117647700506428501634&rtpof=true&sd=true) |
+| 📑 | **SmartTrack Research** | Research Paper | — | [📄 View](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link) |
+| 🧪 | **Quantum Computing** | Research Paper | — | [📄 View](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk&ouid=117647700506428501634&rtpof=true&sd=true) |
 | 🌾 | **Fertilizer MLOps** *(Contribution)* | AgriTech ML | HTML, CSS | [🔗 GitHub](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
 
 ---
