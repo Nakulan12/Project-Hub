@@ -12,12 +12,12 @@
 
 | 🚀 | Project | Domain | Stack | Links |
 |----|---------|--------|-------|--------|
-| 🌸 | **HerVoice** | Digital Literacy | React, TS, Tailwind, Supabase | [🔗 GitHub](https://github.com/Nakulan12/hervoice-slytherin) |
-| 💓 | **EchoHealth** | Health Tracker | React, TS, JS, Tailwind | [🔗 GitHub](https://github.com/Nakulan12/echohealth) |
-| 🚄 | **SmartTrack** | Railway IoT Safety | React, JS, Tailwind, Node, MongoDB | [🔗 GitHub](https://github.com/Nakulan12/SmartTrack-) |
-| 📑 | **SmartTrack Research** | Research Paper | — | [📄 View ](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link) |
-| 🧪 | **Quantum Computing** | Research Paper | — | [📄 View](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk&ouid=117647700506428501634&rtpof=true&sd=true) |
-| 🌾 | **Fertilizer MLOps** *(Contribution)* | AgriTech ML | HTML, CSS | [🔗 GitHub](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
+| 🌸 | **HerVoice** | Digital Literacy | React, TS, Tailwind, Supabase | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/hervoice-slytherin) |
+| 💓 | **EchoHealth** | Health Tracker | React, TS, JS, Tailwind | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/echohealth) |
+| 🚄 | **SmartTrack** | Railway IoT Safety | React, JS, Tailwind, Node, MongoDB | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/SmartTrack-) |
+| 📑 | **SmartTrack Research** | Research Paper | — | [![Paper](https://img.shields.io/badge/View--Paper-4285F4?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link) |
+| 🧪 | **Quantum Computing** | Research Paper | — | [![Paper](https://img.shields.io/badge/View--Paper-4285F4?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk&ouid=117647700506428501634&rtpof=true&sd=true) |
+| 🌾 | **Fertilizer MLOps** *(Contribution)* | AgriTech ML | HTML, CSS | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
 
 ---
 
@@ -38,7 +38,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=for-the-badge)
 
-🔗 [**GitHub Repo**](https://github.com/Nakulan12/hervoice-slytherin)
+[![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/hervoice-slytherin)
 
 </details>
 
@@ -61,8 +61,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&style=for-the-badge)
 
-🌐 [**Live Demo**](https://echo-health.netlify.app)  
-🔗 [**GitHub Repo**](https://github.com/Nakulan12/echohealth)
+[![🚀 Live Demo](https://img.shields.io/badge/Live--Demo-00C853?style=for-the-badge&logo=netlify)](https://echo-health.netlify.app)  
+[![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/echohealth)
 
 </details>
 
@@ -86,8 +86,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=for-the-badge)
 
-🌐 [**Live Demo**](https://smarttrack-iot.netlify.app)  
-🔗 [**GitHub Repo**](https://github.com/Nakulan12/SmartTrack-)
+[![🚀 Live Demo](https://img.shields.io/badge/Live--Demo-00C853?style=for-the-badge&logo=netlify)](https://smarttrack-iot.netlify.app)  
+[![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/SmartTrack-)
 
 </details>
 
@@ -106,7 +106,7 @@
 - 🌐 Web Dashboard for Alert Monitoring and Crack History  
 - 📊 Literature Survey, Case Study, and Future Scope  
 
-📎 **[View Full Paper](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link)**
+[![📄 View Paper](https://img.shields.io/badge/View--Paper-4285F4?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link)
 
 </details>
 
@@ -124,7 +124,7 @@
 - 🧬 Applications in AI, ML, Cryptography, and Drug Design  
 - 🌐 Explored Qiskit, IBM Quantum Simulators, and real-world feasibility
 
-📄 [**View Full Paper**](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk&ouid=117647700506428501634&rtpof=true&sd=true)
+[![📄 View Paper](https://img.shields.io/badge/View--Paper-4285F4?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk)
 
 </details>
 
@@ -145,7 +145,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge)
 
-🔗 [**GitHub Repo**](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS)
+[![💻 Contributed Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS)
 
 </details>
 
