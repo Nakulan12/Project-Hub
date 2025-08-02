@@ -16,9 +16,8 @@
 | 🌸 | **HerVoice** | Digital Literacy | React, TS, Tailwind, Supabase | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/hervoice-slytherin) |
 | 💓 | **EchoHealth** | Health Tracker | React, TS, JS, Tailwind | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/echohealth) |
 | 🚄 | **SmartTrack** | Railway IoT Safety | React, JS, Tailwind, Node, MongoDB | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/SmartTrack-) |
-| 📑 | **SmartTrack Research** | Research Paper | — | [![Paper](https://img.shields.io/badge/View--Paper-4285F4?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link) |
-| 🧪 | **Quantum Computing** | Research Paper | — | [![Paper](https://img.shields.io/badge/View--Paper-4285F4?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk&ouid=117647700506428501634&rtpof=true&sd=true) |
-| 🌾 | **Fertilizer MLOps** *(Contribution)* | AgriTech ML | HTML, CSS | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
+| 🚗 | **Car Price Prediction** *(Contribution)* | ML Frontend | HTML, CSS | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/CarPrice-Pred-XGB) |
+| 🌾 | **Fertilizer MLOps** *(Contribution)* | ML Frontend | HTML, CSS | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
 
 ---
 
@@ -95,37 +94,20 @@
 ---
 
 <details>
-<summary>📄 <strong>SmartTrack – Technical Research Paper</strong></summary>
+<summary>🚗 <strong>Car Price Prediction – ML Frontend (Contribution)</strong></summary>
 
-> A complete research documentation of the **SmartTrack Railway Crack Detection System**, covering design, architecture, literature survey, methodology, and real-time implementation — built for smart railway safety and derailment prevention.
+> A machine learning-based car price prediction interface. I developed the entire **frontend UI** using only HTML and CSS — fully responsive and backend-ready.
 
-**🧠 Key Highlights:**
-- 🚄 Problem Statement & Research Motivation  
-- ⚙️ Hardware-Software Integration (Sensors + IoT + Web)  
-- 🧱 System Architecture & Working Explained  
-- 📈 Real-Time Data Handling with MongoDB & Node.js  
-- 🌐 Web Dashboard for Alert Monitoring and Crack History  
-- 📊 Literature Survey, Case Study, and Future Scope  
+**🧩 Highlights:**
+- 🚘 Clean form for car input features  
+- 📄 Pages: Home, About, Predict, Result  
+- 🎯 Fully static, simple, and integration-ready design  
 
-[![📄 View Paper](https://img.shields.io/badge/View--Paper-4285F4?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1l2GX3_pztaavg7X3RVh9bfIA6pN8kRu0/edit?usp=drive_link)
+**🛠 Tech Stack:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge)
 
-</details>
-
----
-
-<details>
-<summary>🧪 <strong>Quantum Computing – Technical Paper Presentation</strong></summary>
-
-> An in-depth research presentation on the **Foundations and Future of Quantum Computing**, showcasing how quantum principles can revolutionize computation, security, and problem-solving in the 21st century.
-
-**🧠 Key Highlights:**
-- 🌀 Qubits, Superposition, and Quantum Entanglement  
-- ⚛️ Core Algorithms: Shor’s Factorization, Grover’s Search  
-- 🔐 Quantum Cryptography: Unbreakable Communication  
-- 🧬 Applications in AI, ML, Cryptography, and Drug Design  
-- 🌐 Explored Qiskit, IBM Quantum Simulators, and real-world feasibility
-
-[![📄 View Paper](https://img.shields.io/badge/View--Paper-4285F4?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1ocgf_tr5J1V6sTOAXDj-fDRn1rMD8urM/edit?usp=drivesdk)
+[![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/CarPrice-Pred-XGB)
 
 </details>
 
