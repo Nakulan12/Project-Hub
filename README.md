@@ -10,16 +10,15 @@
 ---
 
 ## 🧭 Project Directory
-
 | 🚀 | Project | Domain | Stack | Links |
 |----|---------|--------|-------|--------|
 | 🌸 | **HerVoice** | Digital Literacy | React, TS, Tailwind, Supabase | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/hervoice-slytherin) |
 | 💓 | **EchoHealth** | Health Tracker | React, TS, JS, Tailwind | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/echohealth) |
 | 🚄 | **SmartTrack** | Railway IoT Safety | React, JS, Tailwind, Node, MongoDB | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/SmartTrack-) |
-| 🚗 | **Car Price Prediction** *(Contribution)* | ML Frontend | HTML, CSS | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/CarPrice-Pred-XGB) |
-| 🌾 | **Fertilizer MLOps** *(Contribution)* | ML Frontend | HTML, CSS | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
+| 🧬 | **Kidney Disease Predictor – MLOps** *(Contribution)* | ML Frontend + Integration | HTML, CSS, JS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/KidneyDiseaseMLOPS) |
+| 🚗 | **Car Price Prediction** *(Contribution)* | ML Frontend + Integration | HTML, CSS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/CarPrice-Pred-XGB) |
+| 🌾 | **Fertilizer MLOps** *(Contribution)* | ML Frontend + Integration | HTML, CSS, JS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
 
----
 
 <details>
 <summary>🌸 <strong>HerVoice – Digital Literacy Platform</strong></summary>
@@ -96,16 +95,17 @@
 <details>
 <summary>🚗 <strong>Car Price Prediction – ML Frontend (Contribution)</strong></summary>
 
-> A machine learning-based car price prediction interface. I developed the entire **frontend UI** using only HTML and CSS — fully responsive and backend-ready.
+> A machine learning-based car price prediction interface. I developed the **frontend UI** using HTML, CSS, and JavaScript, and integrated it with the Python ML backend.
 
 **🧩 Highlights:**
 - 🚘 Clean form for car input features  
 - 📄 Pages: Home, About, Predict, Result  
-- 🎯 Fully static, simple, and integration-ready design  
+- 🎯 Fully responsive and backend-ready design  
 
 **🛠 Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
 
 [![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/CarPrice-Pred-XGB)
 
@@ -116,19 +116,45 @@
 <details>
 <summary>🌾 <strong>Fertilizer Prediction – MLOps (Contribution)</strong></summary>
 
-> A machine learning-powered fertilizer recommender. I built the full **HTML-CSS UI** and helped integrate the model results into a clean, dashboard-style frontend.
+> A machine learning-powered fertilizer recommender. I built the **frontend UI** using HTML, CSS, and JavaScript, and integrated it with the Python ML backend for prediction display.
 
 **🧩 Highlights:**
 - 🌱 Clean UI for Input Form  
 - 📊 Result Display Dashboard  
-- ⚙️ Easy Backend Integration  
-- ✅ Fully Static Responsive Layout
+- ⚙️ Smooth API integration with ML model  
+- ✅ Fully responsive static layout
 
 **🛠 Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
 
 [![💻 Contributed Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS)
+
+</details>
+
+
+---
+
+<details>
+<summary>🧬 <strong>Kidney Disease Predictor – MLOps (Contribution)</strong></summary>
+
+> A machine learning-powered kidney disease prediction platform. I developed the **entire frontend UI** and integrated it with the Python ML backend to deliver real-time predictions.
+
+**🧩 Highlights:**
+- 🖥️ Clean, responsive frontend for patient data input  
+- 📊 Real-time prediction results from the ML backend  
+- ⚙️ Smooth integration between UI and Flask API  
+- 🩺 Medical-themed design for clarity and trustworthiness  
+
+**🛠 Tech Stack:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
+
+[![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/KidneyDiseaseMLOPS)
 
 </details>
 
