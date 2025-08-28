@@ -26,7 +26,11 @@
 
 ### 🌟 Detailed Project Sections
 
+
+
 <details>
+
+  
 <summary>🌸 <strong>HerVoice – Digital Literacy Platform</strong></summary>
 
 > Empowering rural women through digital education using gamified, voice-guided modules with offline-first accessibility.
