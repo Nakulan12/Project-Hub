@@ -4,21 +4,27 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Crafting%20Code%20for%20Social%20Impact-%F0%9F%8C%8D-blue?style=for-the-badge" />
-  
 </p>
 
 ---
 
 ## 🧭 Project Directory
 | 🚀 | Project | Domain | Stack | Links |
-|----|---------|--------|-------|--------|
+|----|---------|--------|-------|-------|
 | 🌸 | **HerVoice** | Digital Literacy | React, TS, Tailwind, Supabase | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/hervoice-slytherin) |
 | 💓 | **EchoHealth** | Health Tracker | React, TS, JS, Tailwind | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/echohealth) |
 | 🚄 | **SmartTrack** | Railway IoT Safety | React, JS, Tailwind, Node, MongoDB | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/SmartTrack-) |
 | 🧬 | **Kidney Disease Predictor – MLOps** *(Contribution)* | ML Frontend + Integration | HTML, CSS, JS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/KidneyDiseaseMLOPS) |
 | 🚗 | **Car Price Prediction** *(Contribution)* | ML Frontend + Integration | HTML, CSS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/CarPrice-Pred-XGB) |
 | 🌾 | **Fertilizer MLOps** *(Contribution)* | ML Frontend + Integration | HTML, CSS, JS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
+| 🛍️ | **E-commerce** | Web App | JavaScript | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/E-commerce) |
+| 🔐 | **Smart Business Assistant** | Business Automation | CSS, JS | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/smart-business-assistant) |
+| 🧪 | **Cancer Prediction – MLOps** *(Contribution)* | ML Frontend + Integration | HTML, CSS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/Cancer-prediction) |
+| 🦀 | **Crypto-rs** | Blockchain & Rust | Rust | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/crypto-rs) |
 
+---
+
+### 🌟 Detailed Project Sections
 
 <details>
 <summary>🌸 <strong>HerVoice – Digital Literacy Platform</strong></summary>
@@ -38,7 +44,6 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=for-the-badge)
 
 [![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/hervoice-slytherin)
-
 </details>
 
 ---
@@ -62,7 +67,6 @@
 
 [![🚀 Live Demo](https://img.shields.io/badge/Live--Demo-00C853?style=for-the-badge&logo=netlify)](https://echo-health.netlify.app)  
 [![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/echohealth)
-
 </details>
 
 ---
@@ -87,7 +91,6 @@
 
 [![🚀 Live Demo](https://img.shields.io/badge/Live--Demo-00C853?style=for-the-badge&logo=netlify)](https://smarttrack-iot.netlify.app)  
 [![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/SmartTrack-)
-
 </details>
 
 ---
@@ -108,7 +111,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
 
 [![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/CarPrice-Pred-XGB)
-
 </details>
 
 ---
@@ -131,9 +133,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
 
 [![💻 Contributed Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS)
-
 </details>
-
 
 ---
 
@@ -155,7 +155,80 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
 
 [![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/KidneyDiseaseMLOPS)
+</details>
 
+---
+
+<details>
+<summary>🛍️ <strong>E-commerce – Online Store</strong></summary>
+
+> A simple e-commerce web app built using JavaScript for product browsing and cart management.
+
+**🧩 Highlights:**
+- 🛒 Product Listing & Search  
+- 🛍️ Cart Management  
+- 📊 Responsive Layout
+
+**🛠 Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
+
+[![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/E-commerce)
+</details>
+
+---
+
+<details>
+<summary>🔐 <strong>Smart Business Assistant</strong></summary>
+
+> A tool to assist small businesses with basic automation using a clean, CSS-styled interface.
+
+**🧩 Highlights:**
+- 🏪 Business Dashboard  
+- 📈 Data Management  
+- 📊 Simple Analytics
+
+**🛠 Tech Stack:**  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
+
+[![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/smart-business-assistant)
+</details>
+
+---
+
+<details>
+<summary>🦀 <strong>Crypto-rs – Rust Crypto Tools</strong></summary>
+
+> Blockchain and cryptographic utilities built with Rust.
+
+**🧩 Highlights:**
+- 🔒 Basic Encryption Utilities  
+- ⚡ Rust Performance & Safety  
+
+**🛠 Tech Stack:**  
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&style=for-the-badge)
+
+[![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/crypto-rs)
+</details>
+
+---
+
+<details>
+<summary>🧪 <strong>Cancer Prediction – MLOps (Contribution)</strong></summary>
+
+> A **contributed project** where I built the frontend UI for a cancer prediction model and integrated it with the Python ML backend for real-time diagnosis.
+
+**🧩 Highlights:**
+- 🖥️ Clean and responsive frontend for inputting medical data  
+- 📊 Prediction results displayed directly from ML model  
+- ⚙️ Smooth integration between Flask API & frontend  
+
+**🛠 Tech Stack:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
+
+[![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/Cancer-prediction)
 </details>
 
 ---
