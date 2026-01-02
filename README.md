@@ -9,18 +9,21 @@
 ---
 
 ## 🧭 Project Directory
+
 | 🚀 | Project | Domain | Stack | Links |
 |----|---------|--------|-------|-------|
-| 🌸 | **HerVoice** | Digital Literacy | React, TS, Tailwind, Supabase | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/hervoice-slytherin) |
-| 💓 | **EchoHealth** | Health Tracker | React, TS, JS, Tailwind | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/echohealth) |
-| 🚄 | **SmartTrack** | Railway IoT Safety | React, JS, Tailwind, Node, MongoDB | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/SmartTrack-) |
-| 🧬 | **Kidney Disease Predictor – MLOps** *(Contribution)* | ML Frontend + Integration | HTML, CSS, JS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/KidneyDiseaseMLOPS) |
-| 🚗 | **Car Price Prediction** *(Contribution)* | ML Frontend + Integration | HTML, CSS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/CarPrice-Pred-XGB) |
-| 🌾 | **Fertilizer MLOps** *(Contribution)* | ML Frontend + Integration | HTML, CSS, JS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
-| 🛍️ | **E-commerce** | Web App | JavaScript | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/E-commerce) |
-| 🔐 | **Smart Business Assistant** | Business Automation | CSS, JS | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/smart-business-assistant) |
-| 🧪 | **Cancer Prediction – MLOps** *(Contribution)* | ML Frontend + Integration | HTML, CSS, Python | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/Cancer-prediction) |
-| 🦀 | **Crypto-rs** | Blockchain & Rust | Rust | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/crypto-rs) |
+| 🌸 | **HerVoice** | Digital Literacy | React, TS, Tailwind, Supabase | [Repo](https://github.com/Nakulan12/hervoice-slytherin) |
+| 💓 | **EchoHealth** | Health Tracker | React, TS, JS, Tailwind | [Repo](https://github.com/Nakulan12/echohealth) |
+| 🚄 | **SmartTrack** | Railway IoT Safety | React, JS, Tailwind, Node, MongoDB | [Repo](https://github.com/Nakulan12/SmartTrack-) |
+| 🍄 | **Mushroom Classifier** | ML Classification | Python, ML | [Repo](https://github.com/Nakulan12/mushroom-classifier) |
+| 🔐 | **UDCF** | Data Privacy & Security | Node.js, Blockchain, JWT | [Repo](https://github.com/Nakulan12/UDCF) |
+| 🧬 | **Kidney Disease Predictor** *(Contribution)* | ML Frontend | HTML, CSS, JS, Python | [Repo](https://github.com/Nakulan12/KidneyDiseaseMLOPS) |
+| 🚗 | **Car Price Prediction** *(Contribution)* | ML Frontend | HTML, CSS, Python | [Repo](https://github.com/gowtham-dd/CarPrice-Pred-XGB) |
+| 🌾 | **Fertilizer MLOps** *(Contribution)* | ML Frontend | HTML, CSS, JS, Python | [Repo](https://github.com/gowtham-dd/Fertilizer_Pred_MLOPS) |
+| 🛍️ | **E-commerce** | Web App | JavaScript | [Repo](https://github.com/Nakulan12/E-commerce) |
+| 🔐 | **Smart Business Assistant** | Business Automation | CSS, JS | [Repo](https://github.com/Nakulan12/smart-business-assistant) |
+| 🧪 | **Cancer Prediction** *(Contribution)* | ML Frontend | HTML, CSS, Python | [Repo](https://github.com/Nakulan12/Cancer-prediction) |
+| 🦀 | **Crypto-rs** | Blockchain | Rust | [Repo](https://github.com/Nakulan12/crypto-rs) |
 
 ---
 
@@ -95,6 +98,46 @@
 
 [![🚀 Live Demo](https://img.shields.io/badge/Live--Demo-00C853?style=for-the-badge&logo=netlify)](https://smarttrack-iot.netlify.app)  
 [![💻 View Repo](https://img.shields.io/badge/View--Repo-181717?style=for-the-badge&logo=github)](https://github.com/Nakulan12/SmartTrack-)
+</details>
+
+---
+<details>
+<summary>🍄 <strong>Mushroom Classifier – Machine Learning</strong></summary>
+
+> A machine learning classification system that predicts whether a mushroom is **edible or poisonous** based on input features.
+
+**🧩 Highlights:**
+- 🍄 Supervised ML classification  
+- 📊 Feature-based prediction  
+- ⚙️ Trained & evaluated using Python ML libraries  
+- ✅ Accurate and lightweight model  
+
+**🛠 Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
+
+[💻 View Repo](https://github.com/Nakulan12/mushroom-classifier)
+</details>
+
+---
+<details>
+<summary>🔐 <strong>UDCF – Universal Data Consent Firewall</strong></summary>
+
+> A privacy-first **consent enforcement firewall** that ensures user data is accessed **only with provable consent**, even after access is granted.
+
+**🧩 Highlights:**
+- 🛡️ Middleware-based consent firewall  
+- 🔐 JWT-secured service-to-service access  
+- ⛓️ Immutable audit logs using blockchain  
+- 📜 Verifiable proof for every data access  
+- ⚙️ DPDP & GDPR-aligned architecture  
+
+**🛠 Tech Stack:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge)
+
+[💻 View Repo](https://github.com/Nakulan12/UDCF)
 </details>
 
 ---
