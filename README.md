@@ -24,7 +24,7 @@
 | 🔐 | **Smart Business Assistant** | Business Automation | CSS, JS | [Repo](https://github.com/Nakulan12/smart-business-assistant) |
 | 🧪 | **Cancer Prediction** *(Contribution)* | ML Frontend | HTML, CSS, Python | [Repo](https://github.com/Nakulan12/Cancer-prediction) |
 | 🦀 | **Crypto-rs** | Blockchain | Rust | [Repo](https://github.com/Nakulan12/crypto-rs) |
-
+| 📊 | **ICD Mapping System** | Health Informatics | React, JS, Node.js | [Repo](https://github.com/Nakulan12/icd-mapping-system) |
 ---
 
 ### 🌟 Detailed Project Sections
@@ -279,6 +279,27 @@
 </details>
 
 ---
+<details>
+<summary>📊 <strong>ICD Mapping System – Health Informatics</strong></summary>
+
+> A system that maps clinical diagnoses to standardized **ICD codes** with a searchable interface and analytics dashboard.
+
+**🧩 Highlights:**
+- 📋 ICD code lookup and mapping  
+- 📊 Searchable and filterable UI  
+- ⚙️ Backend API for code reference and validation  
+- 🤝 Integrated with healthcare vocabularies
+
+**🛠 Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge)
+
+[💻 View Repo](https://github.com/Nakulan12/icd-mapping-system)
+</details>
+
+---
+
 
 <p align="center">
   🌟 <em>“Technology isn't just about innovation. It's about impact.”</em>
