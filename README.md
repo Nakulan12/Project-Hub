@@ -299,6 +299,12 @@
 </details>
 
 ---
+<p align="center">
+  🌟 <em>“Technology isn't just about innovation. It's about impact.”</em>
+</p>
 
+<p align="center">
+  🧠 Crafted with 💻 by <a href="https://github.com/Nakulan12">Nakulan</a>
+</p>
 
 
